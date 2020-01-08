@@ -11,6 +11,17 @@
 }
 
 .intro img {
+  float: right;
   width: 400px;
   border-radius: 10%;
+}
+
+.sidebar {
+  float: left;
+  background-color: #efefef;
+  width: 10%;
+}
+
+.sidebar a:hover {
+  color: rgb(41, 65, 5);
 }
