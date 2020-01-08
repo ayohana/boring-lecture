@@ -1,0 +1,16 @@
+.intro h2 {
+  color: brown;
+  font-weight: 700;
+  font-size: 30pt;
+  text-shadow: 1px 1px darkred;
+}
+
+.intro p {
+  color: darkblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro img {
+  width: 400px;
+  border-radius: 10%;
+}
