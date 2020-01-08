@@ -8,6 +8,9 @@
 .intro p {
   color: darkblue;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: beige;
+  padding: 20px;
+  border: 2px solid red;
 }
 
 .intro img {
@@ -19,9 +22,27 @@
 .sidebar {
   float: left;
   background-color: #efefef;
+  border: 3px cornflowerblue dotted;
+  padding: 5px;
+  margin: 10px;
   width: 10%;
+}
+
+.about {
+  clear: left;
 }
 
 .sidebar a:hover {
   color: rgb(41, 65, 5);
+}
+
+.square {
+  background-color: red;
+  width: 100px;
+  height:100px;
+  margin-bottom: 10px;
+}
+
+.special.square{
+  background-color: blue;
 }
